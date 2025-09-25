@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://jaipur.call-girls.co.in/$1",
+      "permanent": true
+    }
+  ]
+}
